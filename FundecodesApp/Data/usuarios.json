@@ -15,6 +15,14 @@
       "Email": "admin@gmail.com",
       "Role": "Administrador",
       "Password": "$2a$11$uLhRz8SUtx4TBOJM6iAU9eXd77T.jvGF5P1VO4ak0w4ngRiqCwpha"
+    },
+    {
+      "Hidden": false,
+      "Id": "333",
+      "Name": "keirin",
+      "Email": "keirin@gmail.com",
+      "Role": "Administrador",
+      "Password": "$2a$11$i42HOXr7SyAJ8yMPpbBsZONr5jpcXZpcIjrI30BBep0RrLTfg7cy6"
     }
   ]
 }
