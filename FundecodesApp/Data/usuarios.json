@@ -1,0 +1,20 @@
+{
+  "Usuarios": [
+    {
+      "Hidden": false,
+      "Id": "11111",
+      "Name": "ffff",
+      "Email": "ffff@gmail.com",
+      "Role": "Administrador",
+      "Password": "1234"
+    },
+    {
+      "Hidden": false,
+      "Id": "2222",
+      "Name": "Admin",
+      "Email": "admin@gmail.com",
+      "Role": "Administrador",
+      "Password": "$2a$11$uLhRz8SUtx4TBOJM6iAU9eXd77T.jvGF5P1VO4ak0w4ngRiqCwpha"
+    }
+  ]
+}
