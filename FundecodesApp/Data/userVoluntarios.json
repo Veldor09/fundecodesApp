@@ -1,0 +1,10 @@
+{
+  "UserVoluntarios": [
+    {
+      "Id": "bdd2d636-06d8-4877-a342-15891e88798e",
+      "Name": "juan",
+      "Email": "juan@gmail.com",
+      "Number": "12345678"
+    }
+  ]
+}

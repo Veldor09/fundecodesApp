@@ -1,0 +1,68 @@
+{
+  "Voluntarios": [
+    {
+      "Hidden": true,
+      "Id": "1234",
+      "Name": "diegoiiii",
+      "Email": "diego@gmail.com",
+      "Role": "Voluntario",
+      "Password": "1234"
+    },
+    {
+      "Hidden": false,
+      "Id": "diegooo",
+      "Name": "091209",
+      "Email": "diego@gmail.com",
+      "Role": "Voluntario",
+      "Password": "1234"
+    },
+    {
+      "Hidden": true,
+      "Id": "777",
+      "Name": "vegetta",
+      "Email": "vegetta@gmail.com",
+      "Role": "Voluntario",
+      "Password": "1234"
+    },
+    {
+      "Hidden": false,
+      "Id": "8745",
+      "Name": "Veldor",
+      "Email": "arayavegad@gmail.com",
+      "Role": "Voluntario",
+      "Password": "1234"
+    },
+    {
+      "Hidden": true,
+      "Id": "4444",
+      "Name": "uuu",
+      "Email": "uuu@gmail.com",
+      "Role": "Voluntario",
+      "Password": "1234"
+    },
+    {
+      "Hidden": true,
+      "Id": "999",
+      "Name": "Diegu",
+      "Email": "di@gmail.com",
+      "Role": "Voluntario",
+      "Password": "$2a$11$n767yy0Bg4JvECxNXX.p1.kmyAIxFhFcoEybxqbMHDUXbrPZ6H3qO"
+    },
+    {
+      "Hidden": false,
+      "Id": "5555",
+      "Name": "Derek",
+      "Email": "derek@gmail.com",
+      "Role": "Voluntario",
+      "Password": "$2a$11$taXE85wSrdMbHAmvaDWjGOBwpDLV1x0Q6Bd4AhA3b/4ixmyvUXjWe"
+    },
+    {
+      "Hidden": false,
+      "Id": "12345678",
+      "Name": "ashly",
+      "Email": "ashly@gmail.com",
+      "Role": "Voluntario",
+      "Password": "1234"
+    }
+  ]
+}
