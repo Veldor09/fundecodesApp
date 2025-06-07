@@ -34,7 +34,7 @@ namespace FundecodesApp.Controllers
         public IActionResult AddAliado([FromBody] Aliado aliado)
         {
             _service.AddAliado(aliado);
-            return CreatedAtAction(nameof(GetAliado), new { id = aliado.Id }, aliado);
+            return CreatedAtAction(nameof(GetAliado), new { id = aliado.Id}, aliado);
         }
 
         [HttpPut("{id}")]

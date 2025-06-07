@@ -1,0 +1,28 @@
+﻿{
+    "Aliados": [
+        {
+            "Hidden": true,
+            "Id": "888",
+            "Name": "vveegeta",
+            "Email": "vveegeta@gmail.com",
+            "Role": "Aliado",
+            "Password": "1234"
+        },
+        {
+            "Hidden": false,
+            "Id": "99",
+            "Name": "fff",
+            "Email": "fff@gmail.com",
+            "Role": "Aliado",
+            "Password": "1234"
+        },
+        {
+            "Hidden": false,
+            "Id": "333",
+            "Name": "jose",
+            "Email": "jose@gmail.com",
+            "Role": "Aliado",
+            "Password": "$2a$11$q49zj2zqnnL3JEjazBCF3evUQUQqH7YF7k.Hmrd0OV1lA9SdWRTLC"
+        }
+    ]
+}
